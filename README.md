@@ -56,7 +56,22 @@ Espaço em disco suficiente para baixar e instalar os componentes da IDE(Não é
 
 Após abrir o pacote com o Arquivo para o programa executar, entre no Arquivo Main e execute-o, a partir disso, utilize os números de 1 a 5 para selecionar a opção desejada e siga utilizando os métodos do projeto para se ter um melhor gerenciamento de frutas "cadastradas" no programa.
 
-(![BibliotecadeConversões](GerenciamentoFrutas2.png))
+*SELECT
+
+(![BibliotecadeConversões](FotoSelect.png))
+
+*INSERT
+
+(![BibliotecadeConversões](FotoInsert.png))
+
+*UPDATE
+
+(![BibliotecadeConversões](FotoUpdate.png))
+
+*DELETE
+
+(![BibliotecadeConversões](FotoDelete.png))
+
 
 
 ## 🛠️ Construído com
