@@ -32,7 +32,7 @@ Esta atividade é requisito da Avaliação Final
 
 [Interface do Exercício Acima]
 
-(![BibliotecadeConversões](GerenciamentoFrutas.png))
+(![BibliotecadeConversões](DatabaseAF.png))
 
 ### 📋 Pré-requisitos
 
