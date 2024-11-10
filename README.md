@@ -72,6 +72,11 @@ A partir da conexão do Servidor WAMP com o Eclipse, se criou várias classes co
 
 (![BibliotecadeConversões](FotoDelete.png))
 
+*Tudo isso iá alterar o banco de dados criado no WAMP SERVER, tendo sua interface modificada.
+
+(![BibliotecadeConversões](InterfaceWAMP.png))
+
+
 
 
 ## 🛠️ Construído com
