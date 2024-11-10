@@ -54,7 +54,7 @@ Espaço em disco suficiente para baixar e instalar os componentes da IDE(Não é
 
 ### 🔧 Instalação
 
-Após abrir o pacote com o Arquivo para o programa executar, entre no Arquivo Main e execute-o, a partir disso, utilize os números de 1 a 5 para selecionar a opção desejada e siga utilizando os métodos do projeto para se ter um melhor gerenciamento de frutas "cadastradas" no programa.
+A partir da conexão do Servidor WAMP com o Eclipse, se criou várias classes contendo métodos diferentes. 1 classe para conexão, 1 para Interface, e 1 para cada função/método utilizado, utilizamos as funções CRUDE do SQL (Create (Insert), Update, Delete, Select).
 
 *SELECT
 
