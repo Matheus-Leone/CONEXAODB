@@ -54,15 +54,15 @@ Espaço em disco suficiente para baixar e instalar os componentes da IDE(Não é
 
 ### 🔧 Instalação
 
-A partir da conexão do Servidor WAMP com o Eclipse, se criou várias classes contendo métodos diferentes. 1 classe para conexão, 1 para Interface, e 1 para cada função/método utilizado, utilizamos as funções CRUDE do SQL (Create (Insert), Update, Delete, Select).
+A partir da conexão do Servidor WAMP com o Eclipse, se criou várias classes contendo métodos diferentes. 1 classe para conexão, 1 para Interface, e 1 para cada função/método utilizado, utilizamos as funções CRUDE do SQL (Create, Read, Update, Delete).
 
-*SELECT
-
-(![BibliotecadeConversões](FotoSelect.png))
-
-*INSERT
+*CREATE
 
 (![BibliotecadeConversões](FotoInsert.png))
+
+*READ
+
+(![BibliotecadeConversões](FotoSelect.png))
 
 *UPDATE
 
